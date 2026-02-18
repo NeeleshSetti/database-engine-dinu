@@ -84,7 +84,7 @@ StringBuffer command = new StringBuffer("DELETE FROM  Students WHERE gpa = 3.3")
 		engine.parseSQL(command);
 ```
 ---
-## Project Structure
+## Project Structure..
 <details>
 <summary>Expand</summary>
 
